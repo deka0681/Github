@@ -1,0 +1,46 @@
+em{
+	font-style: italic;
+	background-color: burlywood;
+	color: green;
+}
+
+a:hover{
+	text-decoration: none;
+	color: red;
+	font-style: italic;
+	background-color: ffBB11;
+}
+
+strong{
+	color: red;
+}
+
+h1{
+	color: blueviolet;
+	float: both;
+	text-decoration: overline;
+}
+
+h2{ text-decoration: underline;
+}
+
+p{
+	font-size: small;
+	font-family: Arial;
+	font-weight: bold;
+	font-style: normal;
+	opacity: 0.9;
+	background-color: wheat;
+	border-top: 3px pink groove;
+	border-radius: 10px;
+	box-shadow: 50px 20px 10px red;
+	text-shadow: 6px 6px 2px green;
+}
+
+/*body{
+	background-image: url("strategi.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: top right;
+	border: 3px green ridge;
+}*/
