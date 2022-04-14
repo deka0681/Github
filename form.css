@@ -1,5 +1,36 @@
 div{
-	border: 3px green ridge;
 	text-align: center;
 	display: flex;
+	text-align: justify;
+	padding: 3px;
+	margin: 4px;
+	overflow: auto;
+	flex-wrap: wrap;
+}
+
+nav{ display: inline-block;
+	width: 150 px;
+	border: 1px solid black;	
+	vertical-align: top;
+
+}
+section{
+	display: inline-block;
+	border: 1px solid red;
+	vertical-align: top;
+}
+aside{
+	display: inline-block;
+	border: 1px solid forestgreen;
+	vertical-align: top;
+}
+footer{
+	display: inline-block;
+	border: 1px solid rosybrown;
+	vertical-align: top;
+}
+header{
+	display: inline-block;
+	border: 1px solid dimgray;
+	vertical-align: top;
 }
